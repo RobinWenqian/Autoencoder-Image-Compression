@@ -6,6 +6,7 @@ fully conv (encoder) and symmetrical for decoder. Finally it can achieve 21 mean
 
 You can download
 training data from this url: https://drive.google.com/drive/folders/1wU1CO6WcQOraIaY2KSk7cRVaAXcm_A2R?usp=sharing
+
 validation data: https://drive.google.com/drive/folders/113EcrAdcxfVqs8BVt4PZjwUEyVz7VVa-?usp=sharing
 
 Organize your data with this structure:
