@@ -11,24 +11,10 @@ validation data: https://drive.google.com/drive/folders/113EcrAdcxfVqs8BVt4PZjwU
 
 Organize your data with this structure:
 
-Data
-  |
-  |---train
-        |
-        |---image1.xxx
-        |---image2.xxx
-        .
-        .
+Data/train/|image1.xxx|image2.xxx
         .
 
-Data_valid
-  |
-  |---train
-        |
-        |---image1.xxx
-        |---image2.xxx
-        .
-        .
+Data_valid/train/image1.xxx|image2.xxx
         .
 
 You can train your own model via run_train.sh and modify config as your needs. Prediction for the valid data via run_test.sh
